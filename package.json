@@ -1,0 +1,21 @@
+{
+  "name": "stock-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "10.0.0",
+    "umi-request": "1.3.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.26.0",
+    "eslint-config-alloy": "4.1.0",
+    "eslint-plugin-prettier": "3.4.0",
+    "eslint-plugin-react": "7.23.2",
+    "prettier": "2.3.0"
+  }
+}
